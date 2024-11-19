@@ -2,4 +2,4 @@
 ## Author: GEOS
 ## Title: Geos textures pack
 ## Notes: Custome textures for WA
-## Version: v0.1.0
+## Version: v0.1.1
