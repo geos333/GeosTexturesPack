@@ -1,4 +1,4 @@
-## Interface: 110500
+## Interface: 110005
 ## Author: GEOS
 ## Title: Geos textures pack
 ## Notes: Custome textures for WA
